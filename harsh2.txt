@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi
 remote
+=======
+hi
+>>>>>>> acd6bd8... changes I done
