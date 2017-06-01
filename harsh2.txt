@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi
 remote
+=======
+hi
+>>>>>>> acd6bd8... changes I done
 =======
 hi
 >>>>>>> acd6bd8... changes I done

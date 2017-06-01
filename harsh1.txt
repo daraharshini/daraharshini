@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 kite
+=======
+hello
+>>>>>>> acd6bd8... changes I done
 =======
 hello
 >>>>>>> acd6bd8... changes I done
